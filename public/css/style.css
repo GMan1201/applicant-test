@@ -1,0 +1,16 @@
+ body {
+	 font-family: 'Nunito', sans-serif;
+}
+.product-container{
+	border:1px solid yellow;
+	padding:10px;
+	margin:5px;
+}
+.basket-container{
+	border:1px solid grey;
+	padding:10px;
+	margin:5px;
+}
+.marginTop{
+	margin-top: 25px;
+}
